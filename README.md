@@ -7,4 +7,4 @@ Cartridge holders for Nordson EFD cartridges while you fill and plug them. Works
 
 These also work for the Nordson EFD Ratio-Pak cartridges, which are single cartridges that get snapped together to make a 2-part cartridge. They are designed for the 75 ml (part #7661540), 150 ml (part #7364433), 300 ml (part #7660650), and 750 ml (part #7661410). 
 
-These were designed to facilitate filling 2-part silicones manually, and used for injection molding soft robotic parts. See Bell et.al. "Injection Molding Soft Actuators", 2021. https://www.micro.seas.harvard.edu/publications
+These were designed to facilitate filling 2-part silicones manually, and used for injection molding soft robotic parts. Manuscript in review: Bell et.al. "Injection Molding Soft Actuators", 2021. https://www.micro.seas.harvard.edu/publications
