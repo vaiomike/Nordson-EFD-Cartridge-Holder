@@ -1,6 +1,6 @@
 # Nordson-EFD-Cartridge-Holder
 
-![alt text](https://github.com/vaiomike/Nordson-EFD-Cartridge-Holder/Nordson+EFD+Cartridge+Holder+-+2K,+Ratio-Pak,+and+Side+x+Side+Two-Component+Cartridges/images/Cartridge_Holder.png?raw=true)
+![alt text](https://github.com/vaiomike/Nordson-EFD-Cartridge-Holder/blob/main/Nordson%2BEFD%2BCartridge%2BHolder%2B-%2B2K%2C%2BRatio-Pak%2C%2Band%2BSide%2Bx%2BSide%2BTwo-Component%2BCartridges/images/Cartridge_Holder.png?raw=true)
 
 
 Cartridge holders for Nordson EFD cartridges while you fill and plug them. Works for 1500 mL (750 x 750 ml) side x side (part #7703811) when you print 2x of the 750 ml holders, and 600 mL (300 x 300 ml) side x side (part #7702971 when you print 2x of the 300 ml holders. Small trimming required if using for these combined cartridges. 
